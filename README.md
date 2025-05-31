@@ -6,8 +6,8 @@ To study the problem statement, SRS document and draw all the UML diagrams of a 
 # SRS (Procedure):
 To create Library Management System software that will meet the needs of the applicant and help them to registering and buy the book for the Library, modification in database and cancellation for the registered project.
 
-# DEVELOPED BY : JOYCE BEULAH R 
-# REGISTER NO : 212222230058
+## DEVELOPED BY : JOYCE BEULAH R 
+## REGISTER NO : 212222230058
 
 # DIAGRAMS:
 
